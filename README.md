@@ -1,7 +1,7 @@
 Rcolorutil
 ==========
 
-A collection of R scripts with utilties for managing colours in R
+A collection of R scripts with utilties for managing colours
 
 Currently contains:
 * hsv2rgb.R: a utility to convert colours from HSV space to RGB. A basic conversion missing from built-in R packages.
